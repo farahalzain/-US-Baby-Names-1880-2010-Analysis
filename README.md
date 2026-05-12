@@ -94,8 +94,3 @@ US-Baby-Names-Analysis/
 * Statistical Insight Extraction
 
 ---
-
-## Author
-
-Farah Bassam Alzain
-Data Science & AI Student
